@@ -1,0 +1,14 @@
+{
+  "name": "base-utils",
+  "version": "1.0.0",
+  "description": "Base Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaun West",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
